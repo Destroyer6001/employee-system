@@ -1,0 +1,7 @@
+{
+    "validation.required": "El campo :attribute es obligatorio",
+    "validation.string" : "El campo :attribute debe ser un campo tipo texto",
+    "validation.max" : "El campo :attribute sobre pasa el numero de caracteres permitidos",
+    "validation.email" : "El campo :attribute debe ser un campo email",
+    "validation.unique" : "El campo :attribute deber ser un campo unico"
+}
